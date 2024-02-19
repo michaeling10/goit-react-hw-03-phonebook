@@ -1,0 +1,16 @@
+.listContactItem {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  padding-bottom: 10px;
+}
+
+.btn-delete {
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.btn-delete:hover {
+  background-color: red;
+  color: aliceblue;
+}

@@ -1,0 +1,26 @@
+.input-name {
+  margin-bottom: 10px;
+}
+
+.input-number {
+  margin-bottom: 10px;
+}
+
+.label {
+  margin-right: 10px;
+}
+
+.btn-submit {
+  cursor: pointer;
+  padding: 4px 6px;
+  margin-top: 12px;
+}
+
+.btn-submit:hover {
+  background-color: aquamarine;
+}
+
+.incorrect {
+  border-color: rgb(204, 40, 40) !important;
+  color: red;
+}
